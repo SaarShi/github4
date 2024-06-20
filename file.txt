@@ -1,3 +1,4 @@
 first line in new file
 second line
 hey hey hey
+4th line changed in MyNewBranch
